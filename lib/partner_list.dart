@@ -1,0 +1,1 @@
+export 'src/partner_list_module.dart';
